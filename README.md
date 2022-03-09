@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Borislav5131
+- 👋 Hi, I’m Borislav Yurkev
 - 👀 I’m interested in programing with C#.
 - 🌱 I’m currently learning C# language in SoftUni.
 - 💞️ I’m looking to collaborate on ...

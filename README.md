@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Borislav Yurkev
-- 👀 I’m interested in programing with C#.
-- 🌱 I’m currently learning C# language in SoftUni.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programing.
+- 🌱 I’m currently learning in Paisii Hilendarski University Plovdiv.
+- 🌱 I completed SoftUni's C# track.
+- 💞️ I’m looking to collaborate on interested projects that can progress my skills of programming.
 - 📫 How to reach me email: borislavurkev@gmail.com
 
 <!---
